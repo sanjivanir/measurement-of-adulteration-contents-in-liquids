@@ -82,5 +82,11 @@ Measurement-of-Adulteration-Contents-in-Liquids/
 - Improved sensor calibration
 - Support for multiple liquid types
 
+  ##  Wokwi Simulation
+
+You can simulate and test this project directly in your browser using Wokwi:
+
+🔗 https://wokwi.com/projects/459186015882595329
+
 Sanjivani Raut
 Electronics & Telecommunication Engineering Student
